@@ -18,7 +18,7 @@ function App() {
 				{/* <div ref={simulateClick} onClick={onButtonClick}>
 					Click me
 				</div> */}
-				<a ref={simulateClick} href="https://www.myntra.com/cbc/store">
+				<a ref={simulateClick} href="https://myntra.onelink.me/eWcy/n1lou79q">
 					Click me
 				</a>
 			</header>
